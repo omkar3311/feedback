@@ -22,7 +22,7 @@ feedback_questions = {
     "What did you like the most about the session?": ["text"],
     "What could be improved in future sessions?": ["text"],
     "How would you rate the instructor's clarity and explanation of Git/GitHub commands?": [ "1 - Poor", "2 - Fair", "3 - Good", "4 - Very Good", "5 - Excellent"],
-    "Which Topics would you like to learn next?": ["AIML","WEB-DEVELOPMENT","Other"]
+    "Which Topics would you like to learn next?": ["AIML","JAVA-DEVELOPMENT","DOCKER"]
 }
 
 st.set_page_config(page_title="Git & GitHub Feedback", page_icon="💬", layout="wide")
