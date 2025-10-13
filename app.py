@@ -80,7 +80,7 @@ if st.session_state.is_admin:
                                     st.info("No responses yet.")
                                 else:
                                     st.write("🗣 Sample Responses:")
-                                    st.write(text_responses.sample(min(5, len(text_responses))))
+                                    st.write(text_responses)
                             else:
                                 counts = full_df[question].value_counts().sort_index()
                                 fig, ax = plt.subplots()
