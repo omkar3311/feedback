@@ -1,2 +1,2 @@
 # feedback
-![Demo ScreenShot](feedback.png)
+![Demo ScreenShot](feddback.png)
